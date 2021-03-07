@@ -1,0 +1,26 @@
+###############################################
+#          Ultimate Kits by toto7735          #
+#                 version 0.1                 #
+###############################################
+
+# Set this option to set how many seconds the player can receive a kit.
+# Write in seconds only.
+# 1 hour = 3600 second / 24 hour = 86400 second
+Cycle of can recive: 86400
+
+# Set this option to set the message of when you get Kit.
+# Use Color codes to set message's color.
+# &0, &1, &2, &3, &4, &5, &6, &7, &8, &9, &a, &b, &c, &d, &e, &f, &k, &l, &m, &n, &o, &r
+Recived message: '&f[&6&lUltimate Kits&f] &aYou have successfully received the kit.'
+
+# Set this option to set the message when you need time to get the kit.
+# Use Color codes to set message's color.
+# &0, &1, &2, &3, &4, &5, &6, &7, &8, &9, &a, &b, &c, &d, &e, &f, &k, &l, &m, &n, &o, &r
+# Use %more-time% to express the time remaining.
+Insufficient Time Message: '&f[&6&lUltimate Kits&f] &cYou need wait %more-time% seconds to recive kit!'
+
+# Set this option to set the message when insufficient permission.
+# Use Color codes to set message's color.
+# &0, &1, &2, &3, &4, &5, &6, &7, &8, &9, &a, &b, &c, &d, &e, &f, &k, &l, &m, &n, &o, &r
+Insufficient Permission Message: '&f[&6&lUltimate Kits&f] &cYou don`t have permission to this command.'
+

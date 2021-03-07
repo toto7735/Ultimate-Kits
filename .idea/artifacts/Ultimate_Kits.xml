@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Ultimate Kits">
+    <output-path>$PROJECT_DIR$/../../../테스트서버/plugins</output-path>
+    <root id="archive" name="Ultimate Kits.jar">
+      <element id="module-output" name="Ultimate Kits" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

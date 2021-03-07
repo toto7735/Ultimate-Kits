@@ -1,0 +1,9 @@
+name: UltimateKits
+version: 0.1
+api-version: 1.15
+main: main.me.toto.UltimateKits
+author: toto7735
+description: §f[§6§lUltimate Kits§f] §ePlugins that enable you to receive custom kits every custom time!
+commands:
+  kit:
+  editkit:
